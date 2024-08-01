@@ -30,7 +30,7 @@ a, i {
   color: #FFF;
 }
 
-/* HEADER */
+/* Cabeçalho */
 #header {
   text-align: center;
   padding: 20px;
@@ -51,7 +51,7 @@ a, i {
   margin-right: 15px;
 }
 
-/* NAVBAR */
+/* Barra de navegação */
 #navbar {
   padding: 10px;
   margin: 10px auto;
@@ -66,7 +66,7 @@ a, i {
   color: #c1b696;
 }
 
-/* MAIN IMAGE */
+/* Imagem principal */
 .main-image {
   height: 400px;
   background-image: url('../img/g_1.jpg');
@@ -82,7 +82,7 @@ a, i {
   bottom: 25px;
 }
 
-/* GALLERY */
+/* Galeria */
 #img-2 {
   background-image: url('../img/g_2.jpg');
 }
